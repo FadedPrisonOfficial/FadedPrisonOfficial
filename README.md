@@ -5,4 +5,4 @@
 - We are an OP - Prison Server with multiple features. 
 - You can either just mine in the mines for our players or also PvP other players and fight for good loot at specific times. 
 
-- This GitHub is used to represent our plugins and show the sourcecode of our custom made plugins. 
+- This GitHub is used to represent our custom plugins
